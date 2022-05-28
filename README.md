@@ -12,8 +12,9 @@ https://spectrogram.sciencemusic.org/
 Link with Job system and compute shader.  
 (I suppose a AI expert would do it with neural network)   
 
-I don't have time to code it now. But it is strongly on my to do list.  
+Unfortunately, I don't have time to code it now.  
+But it is strongly on my to do list.    
 
-If you want to help or me to work on this.   
+If you want to help me to work on this.   
 Ping me to talk about it on discord:  
 eloistree.page.link/discord  
